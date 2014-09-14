@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+.views-tab .tab-panel{
+	display: none;
+	font-size: 30px;
+}
+
+.views-tab .tab-panel.on-active{
+	display: block;
+	font-size: 30px;
+}
